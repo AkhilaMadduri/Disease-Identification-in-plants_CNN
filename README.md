@@ -8,13 +8,14 @@ By gathering the leaves and training them, we  use this  training data to  train
 
 <h2><b> Requirements: </b></h2>
 The dataset of tomato plant is available here.
-
+<br></br>
 
 Download the dataset from [here](https://drive.google.com/open?id=1DVy0LyUUfJciyo7BUFm1sHKSRdTVJgjF)
 
      training_data.py - to generate train images and train labels
      
 <h2><b> Screenshots: </b></h2>
+1. Train dataset
 
 
 

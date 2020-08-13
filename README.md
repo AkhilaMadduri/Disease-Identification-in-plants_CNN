@@ -15,7 +15,30 @@ Download the dataset from [here](https://drive.google.com/open?id=1DVy0LyUUfJciy
      training_data.py - to generate train images and train labels
      
 <h2><b> Screenshots: </b></h2>
-1. Train dataset
+
+1. Train dataset.
+
+![](screenshots/dataset.png "Data set")
+
+2. When gui application  get started the following image window will be displayed.
+
+![](screenshots/gui.png "GUI Page")
+
+3. Below window will be opened now you can redirect to the required directory to select the leaf.
+
+![](screenshots/img_selection "Image selected")
+
+4. After clicking open button you will be getting the following the window. Now click on analyse leaf button to analyse the leaf.
+
+![](screenshots/img_choosen "Image choosen")
+
+5. The corresponding  disease will be shown on the window
+
+![](screenshots/output.png "Output page")
+
+6. If you want remedies the you can press Remedies button.  
+
+![](screenshots/remedies.png "Remedies")
 
 
 

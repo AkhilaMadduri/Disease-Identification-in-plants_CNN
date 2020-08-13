@@ -26,11 +26,11 @@ Download the dataset from [here](https://drive.google.com/open?id=1DVy0LyUUfJciy
 
 3. Below window will be opened now you can redirect to the required directory to select the leaf.
 
-![](screenshots/img_selection "Image selected")
+![](screenshots/img_selection.png "Image selected")
 
 4. After clicking open button you will be getting the following the window. Now click on analyse leaf button to analyse the leaf.
 
-![](screenshots/img_choosen "Image choosen")
+![](screenshots/img_choosen.png "Image choosen")
 
 5. The corresponding  disease will be shown on the window
 

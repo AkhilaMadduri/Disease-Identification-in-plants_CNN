@@ -1,5 +1,7 @@
 # Disease-identification-in-plants_CNN
 
+<h4><b> Bacterial_spot, Early_blight, Late_blight, Septoria_leaf_spot </b></h4>
+
 <h2><b> Abstract: </b></h2>
 
 By gathering the leaves and training them, we  use this  training data to  train our classifier and then output will be predicted with optimum accuracy. We use Convolution Neural Network(CNN) which comprises of different layers which are used for prediction. Some important steps are used for detection like featureextraction and for classification of images we are using CNN, Deep Learning. Proposed model helpsto reduce efforts or hard work of farmers for monitoring big farms and related diseases to farm and crops.

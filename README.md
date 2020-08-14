@@ -10,7 +10,7 @@ By gathering the leaves and training them, we  use this  training data to  train
 The dataset of tomato plant is available here.
 <br></br>
 
-Download the dataset from [here](https://drive.google.com/open?id=1DVy0LyUUfJciyo7BUFm1sHKSRdTVJgjF)
+Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CIPm6b3qV_c23dEVBbQf/view?usp=sharing)
 
      training_data.py - to generate train images and train labels
      

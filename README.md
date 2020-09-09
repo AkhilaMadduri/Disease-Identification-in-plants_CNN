@@ -31,9 +31,6 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 
 * After clicking open button you will be getting the following the window. Now click on analyse leaf button to analyse the leaf.
 
-<h2> 10 diseases </h2>
-
-
 ![](screenshots/img_choosen.png "Image choosen")
 
 * The corresponding  disease will be shown on the window
@@ -43,6 +40,8 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 * If you want remedies the you can press Remedies button.  
 
 ![](screenshots/remedies.png "Remedies")
+
+<h2> 10 diseases </h2>
 
 
 

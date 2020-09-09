@@ -42,6 +42,7 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 ![](screenshots/remedies.png "Remedies")
 
 <h2> 10 diseases </h2>
+
 * Identifying upto 10 diseases in tomato plant at its starting stage.
 * cnn.py is used to train and test the model 
 * ui.py is used for finding the disease in the given leaf by the user.

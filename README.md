@@ -18,16 +18,27 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 <h2><b> Screenshots: </b></h2>
 
 * Train dataset.
+
 ![](4 diseases/screenshots/dataset.png)
+
 * When gui application  get started the following image window will be displayed.
-![](4 diseases/screenshots/gui.png)
+
+![](https://github.com/AkhilaMadduri/Disease-identification-in-plants_CNN-4-diseases/4 diseases/screenshots/gui.png)
+
 * Below window will be opened now you can redirect to the required directory to select the leaf.
+
 ![](4 diseases/screenshots/img_selection.png)
+
 * After clicking open button you will be getting the following the window. Now click on analyse leaf button to analyse the leaf.
+
 ![](4 diseases/screenshots/img_choosen.png)
+
 * The corresponding disease will be shown on the window.
+
 ![](4 diseases/screenshots/output.png)
+
 * If you want remedies the you can press Remedies button.  
+
 ![](4 diseases/screenshots/remedies.png)
 
 <h2> 10 diseases </h2>

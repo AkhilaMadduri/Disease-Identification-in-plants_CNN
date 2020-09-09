@@ -1,4 +1,5 @@
 # Disease-identification-in-plants_CNN
+<h2> 4 Diseases </h2>
 
 <h4><b> Bacterial_spot, Early_blight, Late_blight, Septoria_leaf_spot </b></h4>
 
@@ -29,6 +30,9 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 ![](screenshots/img_selection.png "Image selected")
 
 * After clicking open button you will be getting the following the window. Now click on analyse leaf button to analyse the leaf.
+
+<h2> 10 diseases </h2>
+
 
 ![](screenshots/img_choosen.png "Image choosen")
 

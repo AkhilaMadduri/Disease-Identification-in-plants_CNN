@@ -23,7 +23,7 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 
 * When gui application  get started the following image window will be displayed.
 
-![](https://github.com/AkhilaMadduri/Disease-identification-in-plants_CNN-4-diseases/4 diseases/screenshots/gui.png)
+![](4diseases/screenshots/gui.png)
 
 * Below window will be opened now you can redirect to the required directory to select the leaf.
 

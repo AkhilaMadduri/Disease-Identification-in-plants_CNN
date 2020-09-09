@@ -42,6 +42,19 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 ![](screenshots/remedies.png "Remedies")
 
 <h2> 10 diseases </h2>
+* Identifying upto 10 diseases in tomato plant at its starting stage.
+* cnn.py is used to train and test the model 
+* ui.py is used for finding the disease in the given leaf by the user.
+
+<b><H2> Package Requirements: </h2></b>
+1. Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
+
+       git clone https://github.com/AkhilaMadduri/Disease-identification-in-plants_CNN-10-diseases.git
+2. Download the dataset from [here](https://drive.google.com/open?id=1DVy0LyUUfJciyo7BUFm1sHKSRdTVJgjF)
+3. numpy (pip install numpy) 
+4. tqdm (pip install tqdm) 
+5. TensorFlow openCv matplotlib
+
 
 
 

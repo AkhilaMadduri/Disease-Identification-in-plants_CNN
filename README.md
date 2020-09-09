@@ -19,7 +19,7 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 
 * Train dataset.
 
-![](4 diseases/screenshots/dataset.png)
+![](4diseases/screenshots/dataset.png)
 
 * When gui application  get started the following image window will be displayed.
 
@@ -27,19 +27,19 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 
 * Below window will be opened now you can redirect to the required directory to select the leaf.
 
-![](4 diseases/screenshots/img_selection.png)
+![](4diseases/screenshots/img_selection.png)
 
 * After clicking open button you will be getting the following the window. Now click on analyse leaf button to analyse the leaf.
 
-![](4 diseases/screenshots/img_choosen.png)
+![](4diseases/screenshots/img_choosen.png)
 
 * The corresponding disease will be shown on the window.
 
-![](4 diseases/screenshots/output.png)
+![](4diseases/screenshots/output.png)
 
 * If you want remedies the you can press Remedies button.  
 
-![](4 diseases/screenshots/remedies.png)
+![](4diseases/screenshots/remedies.png)
 
 <h2> 10 diseases </h2>
 

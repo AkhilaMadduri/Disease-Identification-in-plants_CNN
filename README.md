@@ -50,7 +50,7 @@ Download the dataset from [here](https://drive.google.com/file/d/1lw5J29JfjF54CI
 <b><H2> Package Requirements: </h2></b>
 1. Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
 
-       git clone https://github.com/AkhilaMadduri/Disease-identification-in-plants_CNN-10-diseases.git
+       git clone https://github.com/AkhilaMadduri/PlantDiseaseCNN.git
 2. Download the dataset from [here](https://drive.google.com/open?id=1DVy0LyUUfJciyo7BUFm1sHKSRdTVJgjF)
 3. numpy (pip install numpy) 
 4. tqdm (pip install tqdm) 
